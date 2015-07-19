@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-mailing
 Version:	20061228
-Release:	9
+Release:	10
 Summary:	Macros for mail merging
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mailing
