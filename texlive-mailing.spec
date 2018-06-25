@@ -1,5 +1,5 @@
 Name:		texlive-mailing
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Macros for mail merging
 Group:		Publishing
