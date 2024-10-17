@@ -3,7 +3,7 @@ Version:	71862
 Release:	1
 Summary:	Macros for mail merging
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mailing
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mailing
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mailing.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mailing.doc.r%{version}.tar.xz
